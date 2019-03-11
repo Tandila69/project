@@ -13,7 +13,7 @@
     "socket.io": "^2.2.0"
   },
 "engines": {
-  "node": "11.11.0"
+  "node": "10.15.3"
 },
 "scripts": {
   "start": "node index.js"
