@@ -12,7 +12,10 @@
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
   },
-  "scripts": {
+"engines": {
+  "node": "11.11.0"
+},
+"scripts": {
   "start": "node index.js"
 }
 
